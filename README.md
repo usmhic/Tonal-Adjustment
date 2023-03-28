@@ -14,9 +14,3 @@ The notebooks in the repository cover the following image processing transforms:
 
 ## Usage
 To use the notebooks, you can either clone the repository or download the files directly from GitHub. Then, open the desired notebook in Jupyter and follow the instructions provided to learn and experiment with the various transforms.
-
-## Contributing
-Contributions to the repository are welcome. If you would like to add a new notebook or make changes to an existing one, please create a pull request and we will review it as soon as possible.
-
-## License
-This project is licensed under the MIT License. Please see the LICENSE file for more information.
