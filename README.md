@@ -12,11 +12,11 @@ The notebooks in the repository cover the following image processing transforms:
 3. Compositing & Matting: This notebook covers image compositing and matting operations that are widely used in computational photography and computer graphics.
 4. Histogram Equalization: This notebook covers the more global process of histogram equalization, which adjusts the distribution of pixel values in an image.
 
-# Usage
+## Usage
 To use the notebooks, you can either clone the repository or download the files directly from GitHub. Then, open the desired notebook in Jupyter and follow the instructions provided to learn and experiment with the various transforms.
 
-# Contributing
+## Contributing
 Contributions to the repository are welcome. If you would like to add a new notebook or make changes to an existing one, please create a pull request and we will review it as soon as possible.
 
-# License
+## License
 This project is licensed under the MIT License. Please see the LICENSE file for more information.
