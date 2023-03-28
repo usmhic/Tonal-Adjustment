@@ -5,10 +5,8 @@ Point operators are essential image processing transforms that allow modificatio
 This project provides a practical and theoretical exploration of point operators, starting with the theoretical aspect that demonstrates these transforms using Python and OpenCV in Jupyter notebooks. The practical part is a tonal adjustment web app built with Python’s libraries: Flask and Pillow that enables users to upload an image and apply these transforms to modify exposure, contrast, highlights, shadows, whites, and blacks. In the future, we plan to integrate AI and add an auto-tonal adjustment feature.
 
 ## Repository Contents
-The GitHub repository mentioned above contains Jupyter notebooks for each image processing transform mentioned, providing a practical and interactive way to learn and experiment with these transforms. Each notebook provides an explanation of the transform and its practical applications, along with detailed code examples that include step-by-step instructions for applying the transformation to images.
 
 The notebooks in the repository cover the following image processing transforms:
-
 1. Pixel transforms: This notebook covers brightness scaling, contrast adjustments, and image addition.
 2. Color Transforms: This notebook covers color correction and transformations, including hue, saturation, and value adjustments.
 3. Compositing & Matting: This notebook covers image compositing and matting operations that are widely used in computational photography and computer graphics.
